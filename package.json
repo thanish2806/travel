@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "react-awesome-reveal": "^4.3.1",
+    "react-countup": "^6.5.3"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
